@@ -1,3 +1,3 @@
-# ATG World
+https://github.com/spriyanshucoder/social-media.git
 
-https://atg-world-client.netlify.app/
+
